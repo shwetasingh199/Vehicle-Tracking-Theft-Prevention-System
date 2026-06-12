@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+reports/*.pdf
+.streamlit/
+venv/
+.env
